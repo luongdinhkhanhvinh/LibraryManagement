@@ -1,2 +1,2 @@
 # LibraryManagement
-LibraryManagement using UI Control DevExpress 
+LibraryManagement using UI Control DevExpress for Winform
